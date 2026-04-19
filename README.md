@@ -25,3 +25,6 @@ helm install monitoring prometheus-community/kube-prometheus-stack -n monitoring
 
 ### Grafana Dashboard
 ![Grafana Dashboard](Screenshots/grafana-dashboard.png)
+### Running Pods
+![Running Pods](Screenshots/pods-running.png)
+
