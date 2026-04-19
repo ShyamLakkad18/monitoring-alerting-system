@@ -21,3 +21,7 @@ helm install monitoring prometheus-community/kube-prometheus-stack -n monitoring
 - CPU / Memory Metrics
 - Dashboards
 - Alerts
+## Screenshots
+
+### Grafana Dashboard
+![Grafana Dashboard](screenshots/grafana-dashboard.png)
