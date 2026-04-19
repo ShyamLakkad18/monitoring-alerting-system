@@ -24,4 +24,4 @@ helm install monitoring prometheus-community/kube-prometheus-stack -n monitoring
 ## Screenshots
 
 ### Grafana Dashboard
-![Grafana Dashboard](screenshots/grafana-dashboard.png)
+![Grafana Dashboard](Screenshots/grafana-dashboard.png)
